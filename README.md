@@ -1,6 +1,6 @@
 # cpm+fcm
 
-An efficient encoder for sequences of symbols using Copy Models (CPMs), and Finite-Context models (FCMs)
+An efficient encoder for biological sequences using Copy Models (CPMs) and Finite-Context models (FCMs)
 
 ### Access ###
 
