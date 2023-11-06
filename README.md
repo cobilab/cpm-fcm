@@ -44,6 +44,11 @@ Usage: cpm+fcm-enc [ -v (verbose) ]
 
 To see the options of the decoder:
 ```
+./cpm+fcm-dec
+```
+
+This will output:
+```
 Usage: cpm+fcm-dec [ -v (verbose) ]
                    [ -# (5% marks) ]
                    [ -o decoded_file ]
