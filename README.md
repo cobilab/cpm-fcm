@@ -1,10 +1,10 @@
 # cpm+fcm
 
-An efficient encoder for protein sequences
+An efficient encoder for sequences of symbols using Copy Models (CPMs), and Finite-Context models (FCMs)
 
 ### Access ###
 
-It is required to clone and give permitions for running the binaries:
+It is required to clone the repository and give permitions for running the binaries:
 ```
 git clone https://github.com/cobilab/cpm-fcm.git
 cd cpm-fcm/
@@ -58,7 +58,7 @@ On using this software/method please cite:
 
 ### Issues ###
 
-For any issue let us know at [issues link](https://github.com/cobilab/cpm+fcm/issues).
+For any issue let us know at [issues link](https://github.com/cobilab/cpm-fcm/issues).
 
 ### License ###
 
