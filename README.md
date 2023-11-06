@@ -4,8 +4,10 @@ An efficient encoder for protein sequences
 
 ### Access ###
 
-It is required to give permitions for running the binaries:
+It is required to clone and give permitions for running the binaries:
 ```
+git clone https://github.com/cobilab/cpm-fcm.git
+cd cpm-fcm/
 chmod +x cpm+fcm-enc
 chmod +x cpm+fcm-dec
 ```
@@ -22,8 +24,8 @@ For running cpm+fcm decoder:
 ```
 ./cpm+fcm-dec protein-file.enc
 ```
+
 This will generate protein-file.enc.dec.
-```
 
 ### Parameters ###
 
@@ -31,6 +33,7 @@ To see the options of the encoder:
 ```
 ./cpm+fcm-enc
 ```
+
 This will output:
 ```
 Usage: cpm+fcm-enc [ -v (verbose) ]
