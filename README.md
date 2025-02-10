@@ -59,7 +59,7 @@ Usage: cpm+fcm-dec [ -v (verbose) ]
 
 On using this software/method please cite:
 
-* Article in revision
+* Pinho, A. J., & Pratas, D. (2024, March). Copy models for protein sequence compression. In 2024 Data Compression Conference (DCC) (pp. 342-351). IEEE.
 
 ### Issues ###
 
